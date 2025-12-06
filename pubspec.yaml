@@ -61,6 +61,9 @@ flutter:
     - assets/iphone-16-plus.png
     - assets/iphone-17-pro.webp
     - assets/iphone-air.webp
+    - assets/subjects/dotnet.png
+    - assets/subjects/flutter.png
+    - assets/subjects/spring.png
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
