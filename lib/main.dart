@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/widgets/u5/a2_cafe.dart';
+import 'package:flutter_application_1/widgets/u6/b2_task.dart';
 
 void main() {
-  runApp(const CafePOSApp());
+  runApp(MyApp());
 }
+
+// void main() {
+//   runApp(const MyApp());
+// }
